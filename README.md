@@ -1,6 +1,6 @@
 # hero-app
 
-This full-stack application allows you to manage a list of superheroes — create, view, edit, and delete heroes along with their images. Built with React (frontend) and Node.js + Supabase (backend).
+This full-stack application allows you to manage a list of superheroes — create, view, edit, and delete heroes along with their images. Built with React (frontend) and Node.js (Express.js) + Supabase (backend).
 
 ## How to Run the Solution
 
